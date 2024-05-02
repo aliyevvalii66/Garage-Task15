@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\HumanTask\HumanTask\bin\Debug\netcoreapp3.1\HumanTask.exe
+C:\Users\Admin\source\repos\HumanTask\HumanTask\bin\Debug\netcoreapp3.1\HumanTask.deps.json
+C:\Users\Admin\source\repos\HumanTask\HumanTask\bin\Debug\netcoreapp3.1\HumanTask.runtimeconfig.json
+C:\Users\Admin\source\repos\HumanTask\HumanTask\bin\Debug\netcoreapp3.1\HumanTask.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\HumanTask\HumanTask\bin\Debug\netcoreapp3.1\HumanTask.dll
+C:\Users\Admin\source\repos\HumanTask\HumanTask\bin\Debug\netcoreapp3.1\HumanTask.pdb
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.dll
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.pdb
+C:\Users\Admin\source\repos\HumanTask\HumanTask\obj\Debug\netcoreapp3.1\HumanTask.genruntimeconfig.cache
